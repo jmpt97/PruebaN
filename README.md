@@ -52,7 +52,7 @@ El proceso para realizar la exploración y limpieza de datos sigue los siguiente
     5. Estandarización y normalización de datos.
 
 
-Para el caso de los valores de este proyecto, se realiza las verificación necesarias y se hacen los pasos a seguir.
+Para el caso de los valores de este proyecto, se realiza las verificaciones necesarias y se hacen los pasos a seguir.
 
 Para el manejo de valores faltantes primero se realiza la verificación de estos mismos: 
 
@@ -81,7 +81,6 @@ Para la columna de nameOrig se encuentra la siguiente información:
 
 Para la columna de nameDest se encuentra la siguiente información:
 
-[datacountnamedest]
 ![datacountnamedest](https://github.com/jmpt97/PruebaN/blob/main/Imagenes/datacountnamedest.png?raw=true)
 
 Debido a que la columna objetiva para entrenar el modelo es isFraid se puede sacar información de la siguiente imagen:
@@ -103,7 +102,7 @@ Junto con esta información y la variable objetivo, se puede obtener la cantidad
 
 ![graph_type_transactionFraud](https://github.com/jmpt97/PruebaN/blob/main/Imagenes/graph_type_transactionFraud.png?raw=true)
 
-Junto con esta información y la variable objetivo y con la variable de isFlaggedFraud, se puede obtener la cantidad de valores por tipo	de transacción que son Fraude y la variables isFlaggedFraud.
+Junto con esta información y la variable objetivo y con la variable de isFlaggedFraud, se puede obtener la cantidad de valores por tipo	de transacción que son Fraude y las variables isFlaggedFraud.
 
 ![graph_type_transactionFraudisFlagged](https://github.com/jmpt97/PruebaN/blob/main/Imagenes/graph_type_transactionFraudisFlagged.png?raw=true)
 
